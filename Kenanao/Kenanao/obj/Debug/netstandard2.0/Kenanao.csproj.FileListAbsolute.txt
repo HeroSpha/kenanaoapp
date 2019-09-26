@@ -1,0 +1,11 @@
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\bin\Debug\netstandard2.0\Kenanao.deps.json
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\bin\Debug\netstandard2.0\Kenanao.dll
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\obj\Debug\netstandard2.0\Kenanao.csprojAssemblyReference.cache
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\obj\Debug\netstandard2.0\Kenanao.AssemblyInfoInputs.cache
+C:\Users\appsu\source\repos\Kenanao\Kenanao\Kenanao\obj\Debug\netstandard2.0\Kenanao.AssemblyInfo.cs
